@@ -1,2 +1,3 @@
-# Boletos_Bsb_Park
-Programa para geracao de boletos
+# Boletos BSB Park
+
+Gerador de remessas CNAB 400 Bradesco
